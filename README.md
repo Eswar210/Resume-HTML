@@ -30,22 +30,6 @@ To view the resume:
 1. Clone or download this repository.
 2. Open the `resume.html` file in any modern web browser.
 
-
-### How to Add this to Your GitHub Repository:
-
-1. **Navigate to your repository** on GitHub.
-2. **Create or edit `README.md`**:
-   - If you don't have a `README.md` file, click on "Add file" and then select "Create new file."
-   - Name the file `README.md`.
-   - Copy and paste the above content into the file.
-3. **Commit changes**:
-   - Add a commit message like "Add README.md with project overview."
-   - Commit the file to your repository.
-
-Now, when anyone visits your GitHub repository, they will see this detailed description, and it will help them understand the project, how to use it, and the technologies behind it.
-
-Let me know if you need any additional help!
-
 ```bash
 git clone https://github.com/eswar210/Resume-HTML.git
 cd Resume-HTML
