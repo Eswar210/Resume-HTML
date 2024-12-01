@@ -1,10 +1,6 @@
 # Resume-HTML
 A simple, clean, and responsive resume built purely with HTML
 
-# Resume - HTML Only
-
-This is a simple, **HTML-only** version of a professional resume, showcasing my educational background, skills, and projects using just pure HTML (no CSS or JavaScript).
-
 ## Project Overview
 
 This project demonstrates how to build a clean, semantic, and well-structured resume using only **HTML**. While there is no styling or interactivity (since CSS and JavaScript are not used), it provides a strong foundation for presenting key information in a logical manner. The resume is designed with semantic HTML tags for better readability and accessibility.
@@ -38,9 +34,9 @@ This project demonstrates how to build a clean, semantic, and well-structured re
 To view the resume:
 
 1. Clone or download this repository.
-2. Open the `index.html` file in any modern web browser.
+2. Open the `resume.html` file in any modern web browser.
 
 ```bash
-git clone https://github.com/your-username/resume-html-only.git
-cd resume-html-only
-open index.html
+git clone https://github.com/eswar210/Resume-HTML.git
+cd Resume-HTML
+open resume.html
