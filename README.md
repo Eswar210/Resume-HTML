@@ -22,6 +22,12 @@ This project demonstrates how to build a clean, semantic, and well-structured re
 ### Technologies Used:
 
 - **HTML5** (pure HTML, no CSS or JavaScript)
+
+## Preview
+Here is a preview of the resume built purely with HTML:
+
+![Resume Preview](preview.jpg)
+
   
 ### How to Use
 
