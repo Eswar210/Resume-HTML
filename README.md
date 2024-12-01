@@ -1,5 +1,5 @@
 # Resume-HTML
-A simple, clean, and responsive resume built purely with HTML
+A simple and clean resume built using just pure HTML (no CSS or JavaScript).
 
 ## Project Overview
 
