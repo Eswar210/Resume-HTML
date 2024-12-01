@@ -30,6 +30,10 @@ To view the resume:
 1. Clone or download this repository.
 2. Open the `resume.html` file in any modern web browser.
 
+## LICENSE
+This project is licensed under the **MIT License**. See this file [MIT License](LICENSE) for details.
+
+
 ```bash
 git clone https://github.com/eswar210/Resume-HTML.git
 cd Resume-HTML
